@@ -173,7 +173,7 @@ https://www.howtographql.com/react-relay/8-pagination/).
        GUIs (but instead we have many architectural issues to contend with).
     1. Should pages be served by the suites, or a “GUI server” under the reverse proxy?
     1. From suite server endpoints, or suite DBs?  Is latency a problem in the DB case?
-    1. [Recent comparison](https://belitsoft.com/front-end-development-services/react-vs-angular)
+    1. [Recent comparison](https://thecompetenza.com/vue-js-vs-angular-js/)
     1. Typescript? [Maybe not](https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3)
     1. Automated testing?
 1. UI Design
